@@ -49,6 +49,7 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+```
 module Exp3(A,B,S1,C1,D1,B1);
 input A,B;
 output S1,C1,D1,B1;
@@ -57,7 +58,7 @@ assign C1=A&B;
 assign D1=A^B;
 assign B1=~A&B;
 endmodule
-
+```
 
 
 Developed by: Mohana Priya D RegisterNumber:25016734
