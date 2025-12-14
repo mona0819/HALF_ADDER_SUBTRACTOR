@@ -72,3 +72,4 @@ Developed by: Mohana Priya D RegisterNumber:25016734
 
 
 **Result:**
+Implementation-of-Half-Adder-and-Half Subtractor-circuit executed successfully.
