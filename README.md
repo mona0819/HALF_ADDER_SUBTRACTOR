@@ -59,6 +59,7 @@ assign B1=~A&B;
 endmodule
 
 
+
 Developed by: Mohana Priya D RegisterNumber:25016734
 
 **RTL Schematic**
